@@ -4,10 +4,10 @@
 It's clone of system keyboard functionality 
 
 ### Demo
-https://bipinthecoder.github.io/virtualkeyboard/
+It's clone of system keyboard functionality
  
 
-<p> <img src  = ""> </p>
+<p> <img src  = "https://github.com/AshokJammu/TypeKeyboard/blob/master/Resource/Screenshot%20from%202020-08-10%2000-12-07.png"> </p>
 
 ## How to run
 - Clone the repo
